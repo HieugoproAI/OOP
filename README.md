@@ -12,3 +12,6 @@
  - Bùi Đức Tuấn Dũng
  - Nguyễn Đức Quyền
  - Phan Việt Hoàng
+### Dữ liệu
+ - [Dữ liệu](https://drive.google.com/drive/folders/1R-uOQwijG809PDvgvWHRTWaOuRfK1ZPN) gốc 
+ - [Dữ liệu](https://drive.google.com/open?id=1wY00AwJT80oDiV4sFuQb-xFQHTlVI9pA) cần phân loại
